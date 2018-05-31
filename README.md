@@ -16,6 +16,9 @@
 
 * Related dependencies
   * https://github.com/powerline/fonts
+  
+     Remember to restart your iTerm app after installation
+  
   * http://ethanschoonover.com/solarized
   * https://github.com/powerline/powerline
   * https://github.com/vim-airline/vim-airline
