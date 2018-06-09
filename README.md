@@ -45,3 +45,7 @@
 #### brew
 
 * [Install a specific version in brew](http://stackoverflow.com/questions/3987683/homebrew-install-specific-version-of-formula)
+
+#### Ebooks
+
+* https://github.com/bjut-hz/E-Books
